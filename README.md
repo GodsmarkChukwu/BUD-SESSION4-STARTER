@@ -45,5 +45,6 @@ Also how to use margin,flexbox and padding succesfully
 
 ## ACKNOWLEGDEMENT
 
-Thank you BLOCKCHAIN UNN For this opportuinity
+Thank you BLOCKCHAIN UNN For this opportuinity Of learning and self improvement
+
 
